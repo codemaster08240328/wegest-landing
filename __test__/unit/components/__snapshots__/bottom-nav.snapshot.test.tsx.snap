@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BottomNav> snapshot renders correctly 1`] = `
+<div
+  className="MuiBottomNavigation-root"
+>
+  <button
+    className="MuiButtonBase-root MuiBottomNavigationAction-root Mui-selected"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiBottomNavigationAction-wrapper"
+    >
+      <span
+        aria-hidden={true}
+        className="material-icons MuiIcon-root"
+      >
+        looks_one
+      </span>
+      <span
+        className="MuiBottomNavigationAction-label Mui-selected"
+      >
+        page1
+      </span>
+    </span>
+  </button>
+  <button
+    className="MuiButtonBase-root MuiBottomNavigationAction-root"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiBottomNavigationAction-wrapper"
+    >
+      <span
+        aria-hidden={true}
+        className="material-icons MuiIcon-root"
+      >
+        looks_two
+      </span>
+      <span
+        className="MuiBottomNavigationAction-label"
+      >
+        page2
+      </span>
+    </span>
+  </button>
+</div>
+`;

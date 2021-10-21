@@ -1,0 +1,277 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TargetItem> snapshot renders correctly when there are no props 1`] = `
+<div
+  className="MuiPaper-root MuiCard-root makeStyles-root-1  MuiPaper-elevation1 MuiPaper-rounded"
+  data-testid="card"
+  style={
+    Object {
+      "background": "primary",
+    }
+  }
+>
+  <div
+    className="makeStyles-targetInfo-2"
+  >
+    <div
+      className="makeStyles-targetName-3"
+    >
+      <h4
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="title"
+      >
+        
+      </h4>
+    </div>
+    <div
+      className="makeStyles-targetNumbers-4"
+    >
+      <h3
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="done"
+      >
+        0
+      </h3>
+      <h6
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="total"
+      >
+        /
+        0
+      </h6>
+    </div>
+  </div>
+  <div
+    className="makeStyles-targetMeta-5"
+  >
+    <div
+      className="makeStyles-targetIcon-6"
+    >
+      <span
+        aria-hidden={true}
+        className="material-icons MuiIcon-root"
+        data-testid="el-icon"
+      >
+        trending_up
+      </span>
+    </div>
+    <div
+      className="makeStyles-targetDone-7"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="weekly-stats"
+      >
+        1/1 this week
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<TargetItem> snapshot renders correctly when there are title and stats 1`] = `
+<div
+  className="MuiPaper-root MuiCard-root makeStyles-root-1  MuiPaper-elevation1 MuiPaper-rounded"
+  data-testid="card"
+  style={
+    Object {
+      "background": "primary",
+    }
+  }
+>
+  <div
+    className="makeStyles-targetInfo-2"
+  >
+    <div
+      className="makeStyles-targetName-3"
+    >
+      <h4
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="title"
+      >
+        Pedicure
+      </h4>
+    </div>
+    <div
+      className="makeStyles-targetNumbers-4"
+    >
+      <h3
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="done"
+      >
+        1
+      </h3>
+      <h6
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="total"
+      >
+        /
+        4
+      </h6>
+    </div>
+  </div>
+  <div
+    className="makeStyles-targetMeta-5"
+  >
+    <div
+      className="makeStyles-targetIcon-6"
+    >
+      <span
+        aria-hidden={true}
+        className="material-icons MuiIcon-root"
+        data-testid="el-icon"
+      >
+        trending_up
+      </span>
+    </div>
+    <div
+      className="makeStyles-targetDone-7"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="weekly-stats"
+      >
+        1/1 this week
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<TargetItem> snapshot renders correctly when there stats are passed 1`] = `
+<div
+  className="MuiPaper-root MuiCard-root makeStyles-root-1  MuiPaper-elevation1 MuiPaper-rounded"
+  data-testid="card"
+  style={
+    Object {
+      "background": "primary",
+    }
+  }
+>
+  <div
+    className="makeStyles-targetInfo-2"
+  >
+    <div
+      className="makeStyles-targetName-3"
+    >
+      <h4
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="title"
+      >
+        
+      </h4>
+    </div>
+    <div
+      className="makeStyles-targetNumbers-4"
+    >
+      <h3
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="done"
+      >
+        0
+      </h3>
+      <h6
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="total"
+      >
+        /
+        3
+      </h6>
+    </div>
+  </div>
+  <div
+    className="makeStyles-targetMeta-5"
+  >
+    <div
+      className="makeStyles-targetIcon-6"
+    >
+      <span
+        aria-hidden={true}
+        className="material-icons MuiIcon-root"
+        data-testid="el-icon"
+      >
+        trending_up
+      </span>
+    </div>
+    <div
+      className="makeStyles-targetDone-7"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="weekly-stats"
+      >
+        1/1 this week
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<TargetItem> snapshot renders correctly when there title is passed 1`] = `
+<div
+  className="MuiPaper-root MuiCard-root makeStyles-root-1  MuiPaper-elevation1 MuiPaper-rounded"
+  data-testid="card"
+  style={
+    Object {
+      "background": "primary",
+    }
+  }
+>
+  <div
+    className="makeStyles-targetInfo-2"
+  >
+    <div
+      className="makeStyles-targetName-3"
+    >
+      <h4
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="title"
+      >
+        Shave
+      </h4>
+    </div>
+    <div
+      className="makeStyles-targetNumbers-4"
+    >
+      <h3
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="done"
+      >
+        0
+      </h3>
+      <h6
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="total"
+      >
+        /
+        0
+      </h6>
+    </div>
+  </div>
+  <div
+    className="makeStyles-targetMeta-5"
+  >
+    <div
+      className="makeStyles-targetIcon-6"
+    >
+      <span
+        aria-hidden={true}
+        className="material-icons MuiIcon-root"
+        data-testid="el-icon"
+      >
+        trending_up
+      </span>
+    </div>
+    <div
+      className="makeStyles-targetDone-7"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="weekly-stats"
+      >
+        1/1 this week
+      </p>
+    </div>
+  </div>
+</div>
+`;

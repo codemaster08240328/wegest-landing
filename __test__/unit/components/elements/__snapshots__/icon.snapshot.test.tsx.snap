@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Icon> snapshot renders correclty 1`] = `
+<span
+  aria-hidden={true}
+  className="material-icons MuiIcon-root"
+  data-testid="el-icon"
+>
+  add
+</span>
+`;
+
+exports[`<Icon> snapshot renders with a class 1`] = `
+<span
+  aria-hidden={true}
+  className="material-icons MuiIcon-root class-test"
+  data-testid="el-icon"
+>
+  add
+</span>
+`;
+
+exports[`<Icon> snapshot renders with type 1`] = `
+<span
+  aria-hidden={true}
+  className="material-icons MuiIcon-root material-icons-outlined"
+  data-testid="el-icon"
+>
+  add
+</span>
+`;

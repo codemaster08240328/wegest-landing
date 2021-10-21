@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Avatar> snapshot renders with a class 1`] = `
+<div
+  className="MuiAvatar-root Component-root-1 Component-root-11 MuiAvatar-circle class-test MuiAvatar-colorDefault Component-colorDefault-2 Component-colorDefault-12"
+  data-testid="el-avatar"
+>
+  <svg
+    aria-hidden={true}
+    className="MuiSvgIcon-root MuiAvatar-fallback"
+    focusable="false"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+    />
+  </svg>
+</div>
+`;
+
+exports[`<Avatar> snapshot renders with image 1`] = `
+<div
+  className="MuiAvatar-root Component-root-1 Component-root-5 MuiAvatar-circle"
+  data-testid="el-avatar"
+>
+  <img
+    className="MuiAvatar-img"
+    src="/images/avatar-test.jpg"
+  />
+</div>
+`;
+
+exports[`<Avatar> snapshot renders with image and name 1`] = `
+<div
+  className="MuiAvatar-root Component-root-1 Component-root-7 MuiAvatar-circle"
+  data-testid="el-avatar"
+>
+  <img
+    alt="John Smith"
+    className="MuiAvatar-img"
+    src="/images/avatar-test.jpg"
+  />
+</div>
+`;
+
+exports[`<Avatar> snapshot renders with name 1`] = `
+<div
+  className="MuiAvatar-root Component-root-1 Component-root-9 MuiAvatar-circle MuiAvatar-colorDefault Component-colorDefault-2 Component-colorDefault-10"
+  data-testid="el-avatar"
+>
+  JS
+</div>
+`;
+
+exports[`<Avatar> snapshot renders without props 1`] = `
+<div
+  className="MuiAvatar-root Component-root-1 Component-root-3 MuiAvatar-circle MuiAvatar-colorDefault Component-colorDefault-2 Component-colorDefault-4"
+  data-testid="el-avatar"
+>
+  <svg
+    aria-hidden={true}
+    className="MuiSvgIcon-root MuiAvatar-fallback"
+    focusable="false"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+    />
+  </svg>
+</div>
+`;

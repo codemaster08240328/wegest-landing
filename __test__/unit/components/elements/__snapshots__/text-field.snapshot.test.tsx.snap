@@ -1,0 +1,237 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TextField> snapshot renders correctly when there are icon and icolor 1`] = `
+<div
+  className="makeStyles-root-1"
+  data-testid="class"
+>
+  <span
+    aria-hidden={true}
+    className="material-icons MuiIcon-root makeStyles-icon-2 MuiIcon-colorPrimary"
+    data-testid="icon"
+  >
+    email
+  </span>
+  <div
+    className="MuiFormControl-root MuiTextField-root makeStyles-input-3"
+    data-testid="text"
+  >
+    <div
+      className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiInput-input"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        required={false}
+        type="text"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<TextField> snapshot renders correctly when there are no props 1`] = `
+<div
+  className="makeStyles-root-1"
+  data-testid="class"
+>
+  <div
+    className="MuiFormControl-root MuiTextField-root makeStyles-input-3"
+    data-testid="text"
+  >
+    <div
+      className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiInput-input"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        required={false}
+        type="text"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<TextField> snapshot renders correctly when there is className 1`] = `
+<div
+  className="makeStyles-root-1 class-1"
+  data-testid="class"
+>
+  <div
+    className="MuiFormControl-root MuiTextField-root makeStyles-input-3"
+    data-testid="text"
+  >
+    <div
+      className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiInput-input"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        required={false}
+        type="text"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<TextField> snapshot renders correctly when there is helper text 1`] = `
+<div
+  className="makeStyles-root-1"
+  data-testid="class"
+>
+  <div
+    className="MuiFormControl-root MuiTextField-root makeStyles-input-3"
+    data-testid="text"
+  >
+    <div
+      className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiInput-input"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        required={false}
+        type="text"
+      />
+    </div>
+    <p
+      className="MuiFormHelperText-root"
+    >
+      Some important text
+    </p>
+  </div>
+</div>
+`;
+
+exports[`<TextField> snapshot renders correctly when there is icon 1`] = `
+<div
+  className="makeStyles-root-1"
+  data-testid="class"
+>
+  <span
+    aria-hidden={true}
+    className="material-icons MuiIcon-root makeStyles-icon-2 MuiIcon-colorPrimary"
+    data-testid="icon"
+  >
+    email
+  </span>
+  <div
+    className="MuiFormControl-root MuiTextField-root makeStyles-input-3"
+    data-testid="text"
+  >
+    <div
+      className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiInput-input"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        required={false}
+        type="text"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<TextField> snapshot renders correctly when there is label 1`] = `
+<div
+  className="makeStyles-root-1"
+  data-testid="class"
+>
+  <div
+    className="MuiFormControl-root MuiTextField-root makeStyles-input-3"
+    data-testid="text"
+  >
+    <label
+      className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+      data-shrink={false}
+    >
+      Email
+    </label>
+    <div
+      className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiInput-input"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        required={false}
+        type="text"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<TextField> snapshot renders correctly when there is value 1`] = `
+<div
+  className="makeStyles-root-1"
+  data-testid="class"
+>
+  <div
+    className="MuiFormControl-root MuiTextField-root makeStyles-input-3"
+    data-testid="text"
+  >
+    <div
+      className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiInput-input"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        required={false}
+        type="text"
+        value="Hello"
+      />
+    </div>
+  </div>
+</div>
+`;

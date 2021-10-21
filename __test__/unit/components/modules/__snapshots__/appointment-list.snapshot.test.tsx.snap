@@ -1,0 +1,470 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AppointmentList> snapshot renders properly with all required props 1`] = `
+<div
+  className="makeStyles-root-1 "
+  data-testid="appointments"
+>
+  <div
+    className="makeStyles-root-3 "
+  >
+    <div
+      className="makeStyles-timeSlot-4"
+      data-testid="timeSlot"
+      style={
+        Object {
+          "background": "darkgreen",
+        }
+      }
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        08:25
+      </p>
+      <span
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        08:50
+      </span>
+    </div>
+    <div
+      className="makeStyles-appointment-5"
+      data-testid="appointment"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        Tony Stark
+      </p>
+      <span
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        Hair Cut
+      </span>
+    </div>
+    <div
+      className="makeStyles-action-6"
+    >
+      <button
+        className="MuiButtonBase-root MuiIconButton-root Component-root-7 Component-root-8"
+        data-testid="el-icon-button"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiIconButton-label"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root material-icons-outlined"
+            data-testid="el-icon"
+          >
+            info
+          </span>
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    className="makeStyles-root-3 "
+  >
+    <div
+      className="makeStyles-timeSlot-4"
+      data-testid="timeSlot"
+      style={
+        Object {
+          "background": "darkgray",
+        }
+      }
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        08:55
+      </p>
+      <span
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        09:20
+      </span>
+    </div>
+    <div
+      className="makeStyles-appointment-5"
+      data-testid="appointment"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        Natasha Romanoff
+      </p>
+      <span
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        Hair Treatment
+      </span>
+    </div>
+    <div
+      className="makeStyles-action-6"
+    >
+      <button
+        className="MuiButtonBase-root MuiIconButton-root Component-root-7 Component-root-9"
+        data-testid="el-icon-button"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiIconButton-label"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root material-icons-outlined"
+            data-testid="el-icon"
+          >
+            info
+          </span>
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    className="makeStyles-root-3 "
+  >
+    <div
+      className="makeStyles-timeSlot-4"
+      data-testid="timeSlot"
+      style={
+        Object {
+          "background": "slategray",
+        }
+      }
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        09:20
+      </p>
+      <span
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        09:45
+      </span>
+    </div>
+    <div
+      className="makeStyles-appointment-5"
+      data-testid="appointment"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        Bruce Banner
+      </p>
+      <span
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        Beard Trim
+      </span>
+    </div>
+    <div
+      className="makeStyles-action-6"
+    >
+      <button
+        className="MuiButtonBase-root MuiIconButton-root Component-root-7 Component-root-10"
+        data-testid="el-icon-button"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiIconButton-label"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root material-icons-outlined"
+            data-testid="el-icon"
+          >
+            info
+          </span>
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AppointmentList> snapshot renders with a class 1`] = `
+<div
+  className="makeStyles-root-1 class-test"
+  data-testid="appointments"
+>
+  <div
+    className="makeStyles-root-3 "
+  >
+    <div
+      className="makeStyles-timeSlot-4"
+      data-testid="timeSlot"
+      style={
+        Object {
+          "background": "darkgreen",
+        }
+      }
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        08:25
+      </p>
+      <span
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        08:50
+      </span>
+    </div>
+    <div
+      className="makeStyles-appointment-5"
+      data-testid="appointment"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        Tony Stark
+      </p>
+      <span
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        Hair Cut
+      </span>
+    </div>
+    <div
+      className="makeStyles-action-6"
+    >
+      <button
+        className="MuiButtonBase-root MuiIconButton-root Component-root-7 Component-root-11"
+        data-testid="el-icon-button"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiIconButton-label"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root material-icons-outlined"
+            data-testid="el-icon"
+          >
+            info
+          </span>
+        </span>
+        <span
+          className="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="makeStyles-root-3 "
+  >
+    <div
+      className="makeStyles-timeSlot-4"
+      data-testid="timeSlot"
+      style={
+        Object {
+          "background": "darkgray",
+        }
+      }
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        08:55
+      </p>
+      <span
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        09:20
+      </span>
+    </div>
+    <div
+      className="makeStyles-appointment-5"
+      data-testid="appointment"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        Natasha Romanoff
+      </p>
+      <span
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        Hair Treatment
+      </span>
+    </div>
+    <div
+      className="makeStyles-action-6"
+    >
+      <button
+        className="MuiButtonBase-root MuiIconButton-root Component-root-7 Component-root-12"
+        data-testid="el-icon-button"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiIconButton-label"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root material-icons-outlined"
+            data-testid="el-icon"
+          >
+            info
+          </span>
+        </span>
+        <span
+          className="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="makeStyles-root-3 "
+  >
+    <div
+      className="makeStyles-timeSlot-4"
+      data-testid="timeSlot"
+      style={
+        Object {
+          "background": "slategray",
+        }
+      }
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        09:20
+      </p>
+      <span
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        09:45
+      </span>
+    </div>
+    <div
+      className="makeStyles-appointment-5"
+      data-testid="appointment"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        Bruce Banner
+      </p>
+      <span
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        Beard Trim
+      </span>
+    </div>
+    <div
+      className="makeStyles-action-6"
+    >
+      <button
+        className="MuiButtonBase-root MuiIconButton-root Component-root-7 Component-root-13"
+        data-testid="el-icon-button"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiIconButton-label"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root material-icons-outlined"
+            data-testid="el-icon"
+          >
+            info
+          </span>
+        </span>
+        <span
+          className="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

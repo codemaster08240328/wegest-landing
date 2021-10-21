@@ -1,0 +1,983 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Calendar> snapshot renders correctly 1`] = `
+<div
+  className="makeStyles-root-1 "
+>
+  <div
+    className="makeStyles-appointment-2"
+    data-testid="appointment"
+  >
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root selected MuiTypography-body1"
+        >
+          27
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Tue
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          28
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Wed
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          29
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Thu
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          30
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          14
+=======
+          30
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          30
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Fri
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          1
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          15
+=======
+          1
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          1
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Sat
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          2
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          16
+=======
+          2
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          2
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Sun
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          3
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          17
+=======
+          3
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          3
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Mon
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          4
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          18
+=======
+          4
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          4
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Tue
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          5
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          19
+=======
+          5
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          5
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Wed
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          6
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          20
+=======
+          6
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          6
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Thu
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          7
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          21
+=======
+          7
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          7
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Fri
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          8
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          22
+=======
+          8
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          8
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Sat
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          9
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          23
+=======
+          9
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          9
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Sun
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          10
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          24
+=======
+          10
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          10
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Mon
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          11
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          25
+=======
+          11
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          11
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Tue
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          12
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          26
+=======
+          12
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          12
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Wed
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          13
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          27
+=======
+          13
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          13
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Thu
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          14
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          28
+=======
+          14
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          14
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Fri
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          15
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          29
+=======
+          15
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          15
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Sat
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          16
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          30
+=======
+          16
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          16
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Sun
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          17
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          31
+=======
+          17
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          17
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Mon
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          18
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          1
+=======
+          18
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          18
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Tue
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          19
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          2
+=======
+          19
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          19
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Wed
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          20
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          3
+=======
+          20
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          20
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Thu
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          21
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          4
+=======
+          21
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          21
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Fri
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          22
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          5
+=======
+          22
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          22
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Sat
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          23
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          6
+=======
+          23
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          23
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Sun
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          24
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          7
+=======
+          24
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          24
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Mon
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          25
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          8
+=======
+          25
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          25
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Tue
+        </span>
+      </div>
+    </div>
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+          26
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+          9
+=======
+          26
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+          26
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Wed
+        </span>
+      </div>
+    </div>
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          3
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Thu
+        </span>
+      </div>
+    </div>
+<<<<<<< HEAD
+=======
+    <div
+      className="makeStyles-day-3 day"
+      onClick={[Function]}
+    >
+      <div
+        className="makeStyles-dayContent-4"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          11
+        </p>
+        <span
+          className="MuiTypography-root MuiTypography-body1"
+        >
+          Fri
+        </span>
+      </div>
+    </div>
+=======
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+  </div>
+  <div
+    className="makeStyles-selectedDate-5"
+  >
+    <span
+      aria-hidden={true}
+      className="material-icons MuiIcon-root"
+      data-testid="el-icon"
+    >
+      date_range
+    </span>
+    <h4
+      className="MuiTypography-root MuiTypography-body1"
+      data-testid="fullDate"
+    >
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+<<<<<<< HEAD
+      April 27, 2021
+=======
+<<<<<<< HEAD:__test__/unit/components/modules/__snapshots__/calendar.snapshot.test.tsx.snap
+      May 13, 2021
+=======
+      April 27, 2021
+>>>>>>> feat(stats): replace layout components:__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+>>>>>>> 2bdde79 (fix [WEG-46]: Fix merge conflict from `stats`)
+=======
+      April 27, 2021
+>>>>>>> 29e8539 (feat(stats): replace layout components):__test__/unit/components/elements/__snapshots__/calendar.snapshot.test.tsx.snap
+    </h4>
+  </div>
+</div>
+`;

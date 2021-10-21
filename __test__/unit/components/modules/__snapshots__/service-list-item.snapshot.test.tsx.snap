@@ -1,0 +1,827 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ServiceListItem> snapshot renders properly with all required props 1`] = `
+<div
+  className="MuiPaper-root MuiAccordion-root WithStyles(ForwardRef(Accordion))-root-3 makeStyles-root-1  MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded"
+>
+  <div
+    aria-controls="Meches-content"
+    aria-disabled={false}
+    aria-expanded={false}
+    className="MuiButtonBase-root MuiAccordionSummary-root WithStyles(ForwardRef(AccordionSummary))-root-5"
+    id="Meches-header"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    style={
+      Object {
+        "backgroundColor": "#ffb300",
+        "color": "#FFFFFF",
+      }
+    }
+    tabIndex={0}
+  >
+    <div
+      className="MuiAccordionSummary-content WithStyles(ForwardRef(AccordionSummary))-content-6"
+    >
+      <span
+        aria-hidden={true}
+        className="material-icons MuiIcon-root"
+        data-testid="el-icon"
+      >
+        arrow_right
+      </span>
+      <h3
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="title"
+      >
+        Meches
+      </h3>
+    </div>
+  </div>
+  <div
+    className="MuiCollapse-container MuiCollapse-hidden"
+    style={
+      Object {
+        "minHeight": "0px",
+      }
+    }
+  >
+    <div
+      className="MuiCollapse-wrapper"
+    >
+      <div
+        className="MuiCollapse-wrapperInner"
+      >
+        <div
+          aria-labelledby="Meches-header"
+          id="Meches-content"
+          role="region"
+        >
+          <div
+            className="MuiAccordionDetails-root WithStyles(ForwardRef(AccordionDetails))-root-8"
+            data-testid="services"
+          >
+            <div
+              className="makeStyles-root-9 makeStyles-checkbox-2"
+              data-testid="checkboxContainer"
+            >
+              <label
+                className="MuiFormControlLabel-root"
+              >
+                <span
+                  aria-disabled={false}
+                  className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-11 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                  data-testid="checkbox"
+                  onBlur={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={null}
+                >
+                  <span
+                    className="MuiIconButton-label"
+                  >
+                    <input
+                      checked={false}
+                      className="PrivateSwitchBase-input-14"
+                      data-indeterminate={false}
+                      name="443BDC9056"
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                      />
+                    </svg>
+                  </span>
+                </span>
+                <span
+                  className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                >
+                  Colore 10 minuti
+                </span>
+              </label>
+            </div>
+            <div
+              className="makeStyles-root-9 makeStyles-checkbox-2"
+              data-testid="checkboxContainer"
+            >
+              <label
+                className="MuiFormControlLabel-root"
+              >
+                <span
+                  aria-disabled={false}
+                  className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-11 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                  data-testid="checkbox"
+                  onBlur={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={null}
+                >
+                  <span
+                    className="MuiIconButton-label"
+                  >
+                    <input
+                      checked={false}
+                      className="PrivateSwitchBase-input-14"
+                      data-indeterminate={false}
+                      name="4638DB9B"
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                      />
+                    </svg>
+                  </span>
+                </span>
+                <span
+                  className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                >
+                  Colore completo
+                </span>
+              </label>
+            </div>
+            <div
+              className="makeStyles-root-9 makeStyles-checkbox-2"
+              data-testid="checkboxContainer"
+            >
+              <label
+                className="MuiFormControlLabel-root"
+              >
+                <span
+                  aria-disabled={false}
+                  className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-11 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                  data-testid="checkbox"
+                  onBlur={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={null}
+                >
+                  <span
+                    className="MuiIconButton-label"
+                  >
+                    <input
+                      checked={false}
+                      className="PrivateSwitchBase-input-14"
+                      data-indeterminate={false}
+                      name="443BDC9051"
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                      />
+                    </svg>
+                  </span>
+                </span>
+                <span
+                  className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                >
+                  Colore Future
+                </span>
+              </label>
+            </div>
+            <div
+              className="makeStyles-root-9 makeStyles-checkbox-2"
+              data-testid="checkboxContainer"
+            >
+              <label
+                className="MuiFormControlLabel-root"
+              >
+                <span
+                  aria-disabled={false}
+                  className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-11 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                  data-testid="checkbox"
+                  onBlur={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={null}
+                >
+                  <span
+                    className="MuiIconButton-label"
+                  >
+                    <input
+                      checked={false}
+                      className="PrivateSwitchBase-input-14"
+                      data-indeterminate={false}
+                      name="4630D59354"
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                      />
+                    </svg>
+                  </span>
+                </span>
+                <span
+                  className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                >
+                  colore moda estate
+                </span>
+              </label>
+            </div>
+            <div
+              className="makeStyles-root-9 makeStyles-checkbox-2"
+              data-testid="checkboxContainer"
+            >
+              <label
+                className="MuiFormControlLabel-root"
+              >
+                <span
+                  aria-disabled={false}
+                  className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-11 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                  data-testid="checkbox"
+                  onBlur={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={null}
+                >
+                  <span
+                    className="MuiIconButton-label"
+                  >
+                    <input
+                      checked={false}
+                      className="PrivateSwitchBase-input-14"
+                      data-indeterminate={false}
+                      name="463ED59357"
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                      />
+                    </svg>
+                  </span>
+                </span>
+                <span
+                  className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                >
+                  Colore senza amm.
+                </span>
+              </label>
+            </div>
+            <div
+              className="makeStyles-root-9 makeStyles-checkbox-2"
+              data-testid="checkboxContainer"
+            >
+              <label
+                className="MuiFormControlLabel-root"
+              >
+                <span
+                  aria-disabled={false}
+                  className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-11 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                  data-testid="checkbox"
+                  onBlur={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={null}
+                >
+                  <span
+                    className="MuiIconButton-label"
+                  >
+                    <input
+                      checked={false}
+                      className="PrivateSwitchBase-input-14"
+                      data-indeterminate={false}
+                      name="423FDA9A"
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                      />
+                    </svg>
+                  </span>
+                </span>
+                <span
+                  className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                >
+                  Colore senza ammonia
+                </span>
+              </label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<ServiceListItem> snapshot renders with a class 1`] = `
+<div
+  className="MuiPaper-root MuiAccordion-root WithStyles(ForwardRef(Accordion))-root-3 makeStyles-root-1 class-test MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded"
+>
+  <div
+    aria-controls="Meches-content"
+    aria-disabled={false}
+    aria-expanded={false}
+    className="MuiButtonBase-root MuiAccordionSummary-root WithStyles(ForwardRef(AccordionSummary))-root-5"
+    id="Meches-header"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    style={
+      Object {
+        "backgroundColor": "#ffb300",
+        "color": "#FFFFFF",
+      }
+    }
+    tabIndex={0}
+  >
+    <div
+      className="MuiAccordionSummary-content WithStyles(ForwardRef(AccordionSummary))-content-6"
+    >
+      <span
+        aria-hidden={true}
+        className="material-icons MuiIcon-root"
+        data-testid="el-icon"
+      >
+        arrow_right
+      </span>
+      <h3
+        className="MuiTypography-root MuiTypography-body1"
+        data-testid="title"
+      >
+        Meches
+      </h3>
+    </div>
+  </div>
+  <div
+    className="MuiCollapse-container MuiCollapse-hidden"
+    style={
+      Object {
+        "minHeight": "0px",
+      }
+    }
+  >
+    <div
+      className="MuiCollapse-wrapper"
+    >
+      <div
+        className="MuiCollapse-wrapperInner"
+      >
+        <div
+          aria-labelledby="Meches-header"
+          id="Meches-content"
+          role="region"
+        >
+          <div
+            className="MuiAccordionDetails-root WithStyles(ForwardRef(AccordionDetails))-root-8"
+            data-testid="services"
+          >
+            <div
+              className="makeStyles-root-9 makeStyles-checkbox-2"
+              data-testid="checkboxContainer"
+            >
+              <label
+                className="MuiFormControlLabel-root"
+              >
+                <span
+                  aria-disabled={false}
+                  className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-11 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                  data-testid="checkbox"
+                  onBlur={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={null}
+                >
+                  <span
+                    className="MuiIconButton-label"
+                  >
+                    <input
+                      checked={false}
+                      className="PrivateSwitchBase-input-14"
+                      data-indeterminate={false}
+                      name="443BDC9056"
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                      />
+                    </svg>
+                  </span>
+                  <span
+                    className="MuiTouchRipple-root"
+                  />
+                </span>
+                <span
+                  className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                >
+                  Colore 10 minuti
+                </span>
+              </label>
+            </div>
+            <div
+              className="makeStyles-root-9 makeStyles-checkbox-2"
+              data-testid="checkboxContainer"
+            >
+              <label
+                className="MuiFormControlLabel-root"
+              >
+                <span
+                  aria-disabled={false}
+                  className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-11 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                  data-testid="checkbox"
+                  onBlur={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={null}
+                >
+                  <span
+                    className="MuiIconButton-label"
+                  >
+                    <input
+                      checked={false}
+                      className="PrivateSwitchBase-input-14"
+                      data-indeterminate={false}
+                      name="4638DB9B"
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                      />
+                    </svg>
+                  </span>
+                  <span
+                    className="MuiTouchRipple-root"
+                  />
+                </span>
+                <span
+                  className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                >
+                  Colore completo
+                </span>
+              </label>
+            </div>
+            <div
+              className="makeStyles-root-9 makeStyles-checkbox-2"
+              data-testid="checkboxContainer"
+            >
+              <label
+                className="MuiFormControlLabel-root"
+              >
+                <span
+                  aria-disabled={false}
+                  className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-11 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                  data-testid="checkbox"
+                  onBlur={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={null}
+                >
+                  <span
+                    className="MuiIconButton-label"
+                  >
+                    <input
+                      checked={false}
+                      className="PrivateSwitchBase-input-14"
+                      data-indeterminate={false}
+                      name="443BDC9051"
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                      />
+                    </svg>
+                  </span>
+                  <span
+                    className="MuiTouchRipple-root"
+                  />
+                </span>
+                <span
+                  className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                >
+                  Colore Future
+                </span>
+              </label>
+            </div>
+            <div
+              className="makeStyles-root-9 makeStyles-checkbox-2"
+              data-testid="checkboxContainer"
+            >
+              <label
+                className="MuiFormControlLabel-root"
+              >
+                <span
+                  aria-disabled={false}
+                  className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-11 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                  data-testid="checkbox"
+                  onBlur={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={null}
+                >
+                  <span
+                    className="MuiIconButton-label"
+                  >
+                    <input
+                      checked={false}
+                      className="PrivateSwitchBase-input-14"
+                      data-indeterminate={false}
+                      name="4630D59354"
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                      />
+                    </svg>
+                  </span>
+                  <span
+                    className="MuiTouchRipple-root"
+                  />
+                </span>
+                <span
+                  className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                >
+                  colore moda estate
+                </span>
+              </label>
+            </div>
+            <div
+              className="makeStyles-root-9 makeStyles-checkbox-2"
+              data-testid="checkboxContainer"
+            >
+              <label
+                className="MuiFormControlLabel-root"
+              >
+                <span
+                  aria-disabled={false}
+                  className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-11 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                  data-testid="checkbox"
+                  onBlur={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={null}
+                >
+                  <span
+                    className="MuiIconButton-label"
+                  >
+                    <input
+                      checked={false}
+                      className="PrivateSwitchBase-input-14"
+                      data-indeterminate={false}
+                      name="463ED59357"
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                      />
+                    </svg>
+                  </span>
+                  <span
+                    className="MuiTouchRipple-root"
+                  />
+                </span>
+                <span
+                  className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                >
+                  Colore senza amm.
+                </span>
+              </label>
+            </div>
+            <div
+              className="makeStyles-root-9 makeStyles-checkbox-2"
+              data-testid="checkboxContainer"
+            >
+              <label
+                className="MuiFormControlLabel-root"
+              >
+                <span
+                  aria-disabled={false}
+                  className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-11 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                  data-testid="checkbox"
+                  onBlur={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={null}
+                >
+                  <span
+                    className="MuiIconButton-label"
+                  >
+                    <input
+                      checked={false}
+                      className="PrivateSwitchBase-input-14"
+                      data-indeterminate={false}
+                      name="423FDA9A"
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                      />
+                    </svg>
+                  </span>
+                  <span
+                    className="MuiTouchRipple-root"
+                  />
+                </span>
+                <span
+                  className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                >
+                  Colore senza ammonia
+                </span>
+              </label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

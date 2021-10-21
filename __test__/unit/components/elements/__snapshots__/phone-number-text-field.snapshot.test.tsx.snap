@@ -1,0 +1,393 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PhoneNumberTextField> snapshot renders correctly when defaultCountry is passed 1`] = `
+<div
+  className="MuiFormControl-root MuiTextField-root makeStyles-root-1"
+  data-testid="class"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedStart"
+    onClick={[Function]}
+  >
+    <div
+      className="MuiInputAdornment-root MuiPhoneNumber-positionStart MuiInputAdornment-positionStart"
+    >
+      <button
+        aria-haspopup={true}
+        aria-label="Select country"
+        aria-owns={null}
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiPhoneNumber-flagButton"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          <div
+            className="flag se MuiPhoneNumber-flag"
+          />
+        </span>
+        <span
+          className="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <input
+      aria-invalid={false}
+      autoFocus={false}
+      className="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart"
+      disabled={false}
+      onAnimationStart={[Function]}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="+1 (702) 123-4567"
+      required={false}
+      type="tel"
+      value="+46"
+    />
+  </div>
+</div>
+`;
+
+exports[`<PhoneNumberTextField> snapshot renders correctly when there are no props 1`] = `
+<div
+  className="MuiFormControl-root MuiTextField-root makeStyles-root-1"
+  data-testid="class"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedStart"
+    onClick={[Function]}
+  >
+    <div
+      className="MuiInputAdornment-root MuiPhoneNumber-positionStart MuiInputAdornment-positionStart"
+    >
+      <button
+        aria-haspopup={true}
+        aria-label="Select country"
+        aria-owns={null}
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiPhoneNumber-flagButton"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          <div
+            className="flag it MuiPhoneNumber-flag"
+          />
+        </span>
+      </button>
+    </div>
+    <input
+      aria-invalid={false}
+      autoFocus={false}
+      className="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart"
+      disabled={false}
+      onAnimationStart={[Function]}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="+1 (702) 123-4567"
+      required={false}
+      type="tel"
+      value="+39"
+    />
+  </div>
+</div>
+`;
+
+exports[`<PhoneNumberTextField> snapshot renders correctly when there is className 1`] = `
+<div
+  className="MuiFormControl-root MuiTextField-root makeStyles-root-1 class-1"
+  data-testid="class"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedStart"
+    onClick={[Function]}
+  >
+    <div
+      className="MuiInputAdornment-root MuiPhoneNumber-positionStart MuiInputAdornment-positionStart"
+    >
+      <button
+        aria-haspopup={true}
+        aria-label="Select country"
+        aria-owns={null}
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiPhoneNumber-flagButton"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          <div
+            className="flag it MuiPhoneNumber-flag"
+          />
+        </span>
+        <span
+          className="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <input
+      aria-invalid={false}
+      autoFocus={false}
+      className="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart"
+      disabled={false}
+      onAnimationStart={[Function]}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="+1 (702) 123-4567"
+      required={false}
+      type="tel"
+      value="+39"
+    />
+  </div>
+</div>
+`;
+
+exports[`<PhoneNumberTextField> snapshot renders correctly when there is helper text 1`] = `
+<div
+  className="MuiFormControl-root MuiTextField-root makeStyles-root-1"
+  data-testid="class"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedStart"
+    onClick={[Function]}
+  >
+    <div
+      className="MuiInputAdornment-root MuiPhoneNumber-positionStart MuiInputAdornment-positionStart"
+    >
+      <button
+        aria-haspopup={true}
+        aria-label="Select country"
+        aria-owns={null}
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiPhoneNumber-flagButton"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          <div
+            className="flag it MuiPhoneNumber-flag"
+          />
+        </span>
+        <span
+          className="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <input
+      aria-invalid={false}
+      autoFocus={false}
+      className="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart"
+      disabled={false}
+      onAnimationStart={[Function]}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="+1 (702) 123-4567"
+      required={false}
+      type="tel"
+      value="+39"
+    />
+  </div>
+  <p
+    className="MuiFormHelperText-root"
+  >
+    Some important text
+  </p>
+</div>
+`;
+
+exports[`<PhoneNumberTextField> snapshot renders correctly when there is label 1`] = `
+<div
+  className="MuiFormControl-root MuiTextField-root makeStyles-root-1"
+  data-testid="class"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+>
+  <label
+    className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+    data-shrink={true}
+  >
+    Phone
+  </label>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedStart"
+    onClick={[Function]}
+  >
+    <div
+      className="MuiInputAdornment-root MuiPhoneNumber-positionStart MuiInputAdornment-positionStart"
+    >
+      <button
+        aria-haspopup={true}
+        aria-label="Select country"
+        aria-owns={null}
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiPhoneNumber-flagButton"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          <div
+            className="flag it MuiPhoneNumber-flag"
+          />
+        </span>
+      </button>
+    </div>
+    <input
+      aria-invalid={false}
+      autoFocus={false}
+      className="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart"
+      disabled={false}
+      onAnimationStart={[Function]}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="+1 (702) 123-4567"
+      required={false}
+      type="tel"
+      value="+39"
+    />
+  </div>
+</div>
+`;
+
+exports[`<PhoneNumberTextField> snapshot renders correctly when there is value 1`] = `
+<div
+  className="MuiFormControl-root MuiTextField-root makeStyles-root-1"
+  data-testid="class"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedStart"
+    onClick={[Function]}
+  >
+    <div
+      className="MuiInputAdornment-root MuiPhoneNumber-positionStart MuiInputAdornment-positionStart"
+    >
+      <button
+        aria-haspopup={true}
+        aria-label="Select country"
+        aria-owns={null}
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiPhoneNumber-flagButton"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          <div
+            className="flag it MuiPhoneNumber-flag"
+          />
+        </span>
+      </button>
+    </div>
+    <input
+      aria-invalid={false}
+      autoFocus={false}
+      className="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart"
+      disabled={false}
+      onAnimationStart={[Function]}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="+1 (702) 123-4567"
+      required={false}
+      type="tel"
+      value="+12 345 4578"
+    />
+  </div>
+</div>
+`;

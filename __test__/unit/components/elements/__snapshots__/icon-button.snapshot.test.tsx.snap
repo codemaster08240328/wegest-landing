@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<IconButton> snapshot renders correclty 1`] = `
+<button
+  className="MuiButtonBase-root MuiIconButton-root Component-root-1 Component-root-2"
+  data-testid="el-icon-button"
+  disabled={false}
+  onBlur={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiIconButton-label"
+  >
+    <span
+      aria-hidden={true}
+      className="material-icons MuiIcon-root"
+      data-testid="el-icon"
+    >
+      add
+    </span>
+  </span>
+</button>
+`;
+
+exports[`<IconButton> snapshot renders with a class 1`] = `
+<button
+  className="MuiButtonBase-root MuiIconButton-root Component-root-1 Component-root-4 class-test"
+  data-testid="el-icon-button"
+  disabled={false}
+  onBlur={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiIconButton-label"
+  >
+    <span
+      aria-hidden={true}
+      className="material-icons MuiIcon-root"
+      data-testid="el-icon"
+    >
+      add
+    </span>
+  </span>
+</button>
+`;
+
+exports[`<IconButton> snapshot renders with edge 1`] = `
+<button
+  className="MuiButtonBase-root MuiIconButton-root Component-root-1 Component-root-3"
+  data-testid="el-icon-button"
+  disabled={false}
+  onBlur={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiIconButton-label"
+  >
+    <span
+      aria-hidden={true}
+      className="material-icons MuiIcon-root"
+      data-testid="el-icon"
+    >
+      add
+    </span>
+    Hello!
+  </span>
+  <span
+    className="MuiTouchRipple-root"
+  />
+</button>
+`;

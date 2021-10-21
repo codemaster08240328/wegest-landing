@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ClientListItem> snapshot renders correclty with props 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-4 makeStyles-root-1 "
+>
+  <div
+    className="MuiBox-root MuiBox-root-5 makeStyles-avatar-2"
+  >
+    <div
+      bgcolor="#f06292"
+      className="MuiAvatar-root Component-root-6 Component-root-8 MuiAvatar-circle MuiAvatar-colorDefault Component-colorDefault-7 Component-colorDefault-9"
+      data-testid="el-avatar"
+      size={50}
+    >
+      BA
+    </div>
+    Bahar Abbaspour
+  </div>
+  <button
+    className="MuiButtonBase-root MuiIconButton-root Component-root-10 Component-root-11 makeStyles-button-3"
+    data-testid="el-icon-button"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <span
+        aria-hidden={true}
+        className="material-icons MuiIcon-root"
+        data-testid="el-icon"
+      >
+        <span
+          aria-hidden={true}
+          className="material-icons MuiIcon-root material-icons-outlined"
+          data-testid="el-icon"
+        >
+          info
+        </span>
+      </span>
+    </span>
+  </button>
+</div>
+`;

@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card> snapshot renders with props 1`] = `
+<div
+  className="MuiPaper-root MuiCard-root makeStyles-root-1 class-name MuiPaper-elevation8 MuiPaper-rounded"
+  data-testid="el-card"
+>
+  <div
+    className="MuiCardContent-root WithStyles(ForwardRef(CardContent))-root-3"
+  >
+    <div
+      className="MuiBox-root MuiBox-root-4 makeStyles-title-2"
+    >
+      <span
+        className="MuiBox-root MuiBox-root-5"
+      >
+        <span
+          aria-hidden={true}
+          className="material-icons MuiIcon-root"
+          data-testid="el-icon"
+        >
+          email
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-colorSecondary"
+        >
+          card test
+        </p>
+      </span>
+      <p
+        className="MuiTypography-root MuiTypography-body1 MuiTypography-colorSecondary"
+      >
+        2021-04-09
+      </p>
+    </div>
+    <div
+      className="MuiBox-root MuiBox-root-6"
+    >
+      Hello World!
+    </div>
+  </div>
+</div>
+`;

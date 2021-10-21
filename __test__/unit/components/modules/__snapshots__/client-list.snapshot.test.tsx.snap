@@ -1,0 +1,492 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ClientList> snapshot renders correctly with props 1`] = `
+Array [
+  <div
+    className="MuiBox-root MuiBox-root-4 makeStyles-root-1 "
+  >
+    <div
+      className="MuiBox-root MuiBox-root-5 makeStyles-avatar-2"
+    >
+      <div
+        bgcolor="#f06292"
+        className="MuiAvatar-root Component-root-6 Component-root-8 MuiAvatar-circle MuiAvatar-colorDefault Component-colorDefault-7 Component-colorDefault-9"
+        data-testid="el-avatar"
+        size={50}
+      >
+        GM
+      </div>
+      Giulia Malu
+    </div>
+    <button
+      className="MuiButtonBase-root MuiIconButton-root Component-root-10 Component-root-11 makeStyles-button-3"
+      data-testid="el-icon-button"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiIconButton-label"
+      >
+        <span
+          aria-hidden={true}
+          className="material-icons MuiIcon-root"
+          data-testid="el-icon"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root material-icons-outlined"
+            data-testid="el-icon"
+          >
+            info
+          </span>
+        </span>
+      </span>
+    </button>
+  </div>,
+  <div
+    className="MuiBox-root MuiBox-root-12 makeStyles-root-1 "
+  >
+    <div
+      className="MuiBox-root MuiBox-root-13 makeStyles-avatar-2"
+    >
+      <div
+        bgcolor="#f06292"
+        className="MuiAvatar-root Component-root-6 Component-root-14 MuiAvatar-circle MuiAvatar-colorDefault Component-colorDefault-7 Component-colorDefault-15"
+        data-testid="el-avatar"
+        size={50}
+      >
+        SA
+      </div>
+      Sabina Abdalova
+    </div>
+    <button
+      className="MuiButtonBase-root MuiIconButton-root Component-root-10 Component-root-16 makeStyles-button-3"
+      data-testid="el-icon-button"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiIconButton-label"
+      >
+        <span
+          aria-hidden={true}
+          className="material-icons MuiIcon-root"
+          data-testid="el-icon"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root material-icons-outlined"
+            data-testid="el-icon"
+          >
+            info
+          </span>
+        </span>
+      </span>
+    </button>
+  </div>,
+  <div
+    className="MuiBox-root MuiBox-root-17 makeStyles-root-1 "
+  >
+    <div
+      className="MuiBox-root MuiBox-root-18 makeStyles-avatar-2"
+    >
+      <div
+        bgcolor="#f06292"
+        className="MuiAvatar-root Component-root-6 Component-root-19 MuiAvatar-circle MuiAvatar-colorDefault Component-colorDefault-7 Component-colorDefault-20"
+        data-testid="el-avatar"
+        size={50}
+      >
+        BA
+      </div>
+      Bahar Abbaspour
+    </div>
+    <button
+      className="MuiButtonBase-root MuiIconButton-root Component-root-10 Component-root-21 makeStyles-button-3"
+      data-testid="el-icon-button"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiIconButton-label"
+      >
+        <span
+          aria-hidden={true}
+          className="material-icons MuiIcon-root"
+          data-testid="el-icon"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root material-icons-outlined"
+            data-testid="el-icon"
+          >
+            info
+          </span>
+        </span>
+      </span>
+    </button>
+  </div>,
+  <div
+    className="MuiBox-root MuiBox-root-22 makeStyles-root-1 "
+  >
+    <div
+      className="MuiBox-root MuiBox-root-23 makeStyles-avatar-2"
+    >
+      <div
+        bgcolor="#64b5f6"
+        className="MuiAvatar-root Component-root-6 Component-root-24 MuiAvatar-circle MuiAvatar-colorDefault Component-colorDefault-7 Component-colorDefault-25"
+        data-testid="el-avatar"
+        size={50}
+      >
+        AA
+      </div>
+      Abbate Abballati
+    </div>
+    <button
+      className="MuiButtonBase-root MuiIconButton-root Component-root-10 Component-root-26 makeStyles-button-3"
+      data-testid="el-icon-button"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiIconButton-label"
+      >
+        <span
+          aria-hidden={true}
+          className="material-icons MuiIcon-root"
+          data-testid="el-icon"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root material-icons-outlined"
+            data-testid="el-icon"
+          >
+            info
+          </span>
+        </span>
+      </span>
+    </button>
+  </div>,
+  <div
+    className="MuiBox-root MuiBox-root-27 makeStyles-root-1 "
+  >
+    <div
+      className="MuiBox-root MuiBox-root-28 makeStyles-avatar-2"
+    >
+      <div
+        bgcolor="#f06292"
+        className="MuiAvatar-root Component-root-6 Component-root-29 MuiAvatar-circle MuiAvatar-colorDefault Component-colorDefault-7 Component-colorDefault-30"
+        data-testid="el-avatar"
+        size={50}
+      >
+        MA
+      </div>
+      Mobina Abs
+    </div>
+    <button
+      className="MuiButtonBase-root MuiIconButton-root Component-root-10 Component-root-31 makeStyles-button-3"
+      data-testid="el-icon-button"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiIconButton-label"
+      >
+        <span
+          aria-hidden={true}
+          className="material-icons MuiIcon-root"
+          data-testid="el-icon"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root material-icons-outlined"
+            data-testid="el-icon"
+          >
+            info
+          </span>
+        </span>
+      </span>
+    </button>
+  </div>,
+  <div
+    className="MuiBox-root MuiBox-root-32 makeStyles-root-1 "
+  >
+    <div
+      className="MuiBox-root MuiBox-root-33 makeStyles-avatar-2"
+    >
+      <div
+        bgcolor="#f06292"
+        className="MuiAvatar-root Component-root-6 Component-root-34 MuiAvatar-circle MuiAvatar-colorDefault Component-colorDefault-7 Component-colorDefault-35"
+        data-testid="el-avatar"
+        size={50}
+      >
+        CA
+      </div>
+      Cristina Abdulla
+    </div>
+    <button
+      className="MuiButtonBase-root MuiIconButton-root Component-root-10 Component-root-36 makeStyles-button-3"
+      data-testid="el-icon-button"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiIconButton-label"
+      >
+        <span
+          aria-hidden={true}
+          className="material-icons MuiIcon-root"
+          data-testid="el-icon"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root material-icons-outlined"
+            data-testid="el-icon"
+          >
+            info
+          </span>
+        </span>
+      </span>
+    </button>
+  </div>,
+  <div
+    className="MuiBox-root MuiBox-root-37 makeStyles-root-1 "
+  >
+    <div
+      className="MuiBox-root MuiBox-root-38 makeStyles-avatar-2"
+    >
+      <div
+        bgcolor="#f06292"
+        className="MuiAvatar-root Component-root-6 Component-root-39 MuiAvatar-circle MuiAvatar-colorDefault Component-colorDefault-7 Component-colorDefault-40"
+        data-testid="el-avatar"
+        size={50}
+      >
+        EA
+      </div>
+      Erlina Abaring
+    </div>
+    <button
+      className="MuiButtonBase-root MuiIconButton-root Component-root-10 Component-root-41 makeStyles-button-3"
+      data-testid="el-icon-button"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiIconButton-label"
+      >
+        <span
+          aria-hidden={true}
+          className="material-icons MuiIcon-root"
+          data-testid="el-icon"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root material-icons-outlined"
+            data-testid="el-icon"
+          >
+            info
+          </span>
+        </span>
+      </span>
+    </button>
+  </div>,
+  <div
+    className="MuiBox-root MuiBox-root-42 makeStyles-root-1 "
+  >
+    <div
+      className="MuiBox-root MuiBox-root-43 makeStyles-avatar-2"
+    >
+      <div
+        bgcolor="#f06292"
+        className="MuiAvatar-root Component-root-6 Component-root-44 MuiAvatar-circle MuiAvatar-colorDefault Component-colorDefault-7 Component-colorDefault-45"
+        data-testid="el-avatar"
+        size={50}
+      >
+        AA
+      </div>
+      A A
+    </div>
+    <button
+      className="MuiButtonBase-root MuiIconButton-root Component-root-10 Component-root-46 makeStyles-button-3"
+      data-testid="el-icon-button"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiIconButton-label"
+      >
+        <span
+          aria-hidden={true}
+          className="material-icons MuiIcon-root"
+          data-testid="el-icon"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root material-icons-outlined"
+            data-testid="el-icon"
+          >
+            info
+          </span>
+        </span>
+      </span>
+    </button>
+  </div>,
+  <div
+    className="MuiBox-root MuiBox-root-47 makeStyles-root-1 "
+  >
+    <div
+      className="MuiBox-root MuiBox-root-48 makeStyles-avatar-2"
+    >
+      <div
+        bgcolor="#64b5f6"
+        className="MuiAvatar-root Component-root-6 Component-root-49 MuiAvatar-circle MuiAvatar-colorDefault Component-colorDefault-7 Component-colorDefault-50"
+        data-testid="el-avatar"
+        size={50}
+      >
+        MP
+      </div>
+      Marco Pernando
+    </div>
+    <button
+      className="MuiButtonBase-root MuiIconButton-root Component-root-10 Component-root-51 makeStyles-button-3"
+      data-testid="el-icon-button"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiIconButton-label"
+      >
+        <span
+          aria-hidden={true}
+          className="material-icons MuiIcon-root"
+          data-testid="el-icon"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root material-icons-outlined"
+            data-testid="el-icon"
+          >
+            info
+          </span>
+        </span>
+      </span>
+    </button>
+  </div>,
+]
+`;

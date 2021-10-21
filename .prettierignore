@@ -1,0 +1,12 @@
+#config files
+.gitignore
+.prettierignore
+.editorconfig
+
+yarn.lock
+
+#no code style
+__snapshots__
+
+#assets
+images
